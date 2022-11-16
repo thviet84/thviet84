@@ -28,9 +28,10 @@
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>
-        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">-Trungquandev Official-</div>
+        <div class="quotes-eng">"Do not go where the path may lead, go instead where there is no path and leave a trail."</div>
+<!--         <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div> -->
+<!--         <div class="trungquandev-signature">-Ralph Waldo Emerson-</div> -->
+	<div class="quotes-eng">"You can only live once, but if you do it right, once is enough."</div>
       </div>
 		</div>
 	</foreignObject>
